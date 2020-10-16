@@ -5,10 +5,10 @@ After a trip to New York City with my friend, Kate, we noticed that part of what
 
 
 ## Results
-#### The link to the NYC CitiBike Tableau dashboard can be found [here](https://public.tableau.com/profile/amelin.norzamini#!/vizhome/Module14-NYCCitiBikeChallenge/NYCCitiBike "NYC CitiBike Dashboard").
+#### The link to the NYC CitiBike Tableau dashboard can be found [here](https://public.tableau.com/profile/amelin.norzamini#!/vizhome/Module14-NYCCitiBikeChallenge/NYCCitiBike "NYC CitiBike Dashboard").<br>
 
 ### 1. The Overview of the August 2019 NYC CitiBike Data
-<p align="center"><img src="images/overview.png"></p><br>
+<p align="center"><img src="images/overview.png" width="600"></p>
 
 This page shows an overview of the dataset to introduce some of the categories that will be explored in this analysis. Below are some of the key points:
 

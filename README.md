@@ -23,15 +23,15 @@ This page shows an overview of the dataset to introduce some of the categories t
 According to this graph, we can see that most users rent the bikes between 8-10am and 5-7pm. This is likely due to possible work day commute hours. 
 
 ### Top Starting & Ending Locations
-<p align="center"><img src="images/toplocations.png"></p>
+<p align="center"><img src="images/toplocations.png" width="600"></p>
 The graph above shows the top starting (blue) and ending locations(red-gold). The size of the coloured dot represents how many rides were taken. The dot gets bigger and darker when there are more rides. The top starting and top ending locations are likely the similar as they are located in areas with more tourists and higher foot traffic.
 
 ### Checkout Times for Users
-<p align="center"><img src="images/usercheckouttime.png"></p>
+<p align="center"><img src="images/usercheckouttime.png" width="600"></p>
 This graph shows the trip duration for each bike rental with the hours located at the top of the x-axis and minutes at the bottom of the x-axis. Most users' trips last between 4-7 hours, with the 5 hour mark being the most common. 
 
 ### Checkout Times by Gender
-<p align="center"><img src="images/gendercheckouttime.png"></p>
+<p align="center"><img src="images/gendercheckouttime.png" width="600"></p>
 Similar to the previous graph, this graph includes the breakdown of the users' genders. The blue line represents males, the pink represents females, and the grey represents the unknown category. All three categories have similar trend lines with males having the highest number of rides compared to females and the unknown category.
 
 ### Trips by Weekday for Each Hour
@@ -39,7 +39,7 @@ Similar to the previous graph, this graph includes the breakdown of the users' g
 This graph shows the number of trips taken each hour by weekday. The colours represent the number of rides taken. The darker the colour, the more trips taken. As we can see in the graph above, there are more trips taken around 8am and between 5-7pm during Monday through Friday. Bike trips are taken most often on Thursdays between 5-7pm.
 
 ### Trips by Gender (Weekday per Hour)
-<p align="center"><img src="images/weekdaytripsbygenderhour.png"></p>
+<p align="center"><img src="images/weekdaytripsbygenderhour.png" width="600"></p>
 This graph shows the number of trips taken each hour by weekday broken down by gender. Similar to what was observed in the previous graph, trips are mostly taken around 8am and between 5-7pm during Monday through Friday for males and females. The unknown gender category has more rides on Saturdays and Sundays between 8am-8pm compared to the other days.
 
 ### User Trips by Gender by Weekday

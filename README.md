@@ -14,7 +14,7 @@ This page shows an overview of the dataset to introduce some of the categories t
 
 - This Citi Bike Trip Histories dataset was obtained from the [citibike System Data](https://www.citibikenyc.com/system-data "Citi Bike Trip Histories") site. We chose to only look at data in August of 2019 because there is likely more traffic during the summer months.
 - The total number of rides is 2,344,224.
-- There was a total of 794 bike rental stations.
+- There is a total of 794 bike rental stations.
 - There were two types of customers recorded (customer and subscriber).
 - The gender can be broken down into three categories (male, female, and unknown).
 
@@ -48,9 +48,9 @@ This graph shows the number of trips taken by weekday and broken down by user ty
 
 
 ## Summary
-Overall bike rentals are male dominated. In general, peak usage is during commute times to and from work. There are 
+The top starting and ending locations are located in tourists areas that increase bike rentals. Most of the bike trips last about 5 hours. In general, peak usage is during commute times to and from work. Overall bike rentals are male dominated. There are much more subscribers compared to customers. Subscribers seem to have higher usage during the workday commute hours, while customers have higher usage on weekends than on work days.
 
 ### Additional Visualisations
 I suggest performing these two additonal visualisations for further analysis:
 1. Type of User vs Trip Duration. By looking at the relationship between user type and trip duration, we are able to get an idea if subscribers tend to have shorter or longer trips compared to customers.
-2. Number of Trips vs Birth Year. Creeating a bar chart to show the number of trips taken by people in a certain birth year can help us understand what ages are more likely to rent bikes and try to focus more outreach efforts to ages that do not have high rental rates.
+2. Number of Trips vs Birth Year. Creeating a bar chart to show the number of trips taken by people in a certain birth year can help us understand what ages are more likely to rent bikes and try to focus more outreach efforts to ages that do not have high rental rates to increase ridership.

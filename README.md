@@ -53,4 +53,4 @@ The top starting and ending locations are located in tourists areas that increas
 ### Additional Visualisations
 I suggest performing these two additonal visualisations for further analysis:
 1. Type of User vs Trip Duration. By looking at the relationship between user type and trip duration, we are able to get an idea if subscribers tend to have shorter or longer trips compared to customers.
-2. Number of Trips vs Birth Year. Creeating a bar chart to show the number of trips taken by people in a certain birth year can help us understand what ages are more likely to rent bikes and try to focus more outreach efforts to ages that do not have high rental rates to increase ridership.
+2. Number of Trips vs Birth Year. Creating a bar chart to show the number of trips taken by people in a certain birth year can help us understand what ages are more likely to rent bikes and try to focus more outreach efforts to ages that do not have high rental rates to increase ridership.
